@@ -1,4 +1,4 @@
-Creted and Fully Secured a coffee shop website for our finals project during 3rd year.
+Created a vulnerable coffee hop website and Fully Secured the coffee shop website for our finals project during 3rd year.
 
 
 
